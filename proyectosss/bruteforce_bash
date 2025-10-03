@@ -1,6 +1,0 @@
-# run_bruteforce.sh
-#!/bin/bash
-
-for user in admin user1 user2; do
-  python3 bruteforce.py "$user"
-done
